@@ -69,13 +69,7 @@
 <!--                SECTION 4 — ABOUT ME (YAML CODE STYLE)        -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🧬 `whoami`
 
@@ -121,12 +115,12 @@
 
 #### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,js,java,cs,rust,php&theme=dark&perline=9" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart&theme=dark&perline=9" alt="Languages"/>
 </div>
 
 #### AI / ML / Data Science
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=9" alt="AI/ML"/>
+  <!-- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=9" alt="AI/ML"/> -->
   &nbsp;
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -136,7 +130,7 @@
 
 #### Web & Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,tailwind&theme=dark&perline=9" alt="Web/Mobile"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=9" alt="Web/Mobile"/>
 </div>
 
 #### Cloud & DevOps
@@ -149,19 +143,19 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,redis,git,bash,latex,vscode&theme=dark&perline=10" alt="Databases/Tools"/>
 </div>
 
----
+<!-- --- -->
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--              SECTION 6 — GITHUB STATS CARDS (3-COLUMN)       -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSSE23029&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSSE23029&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,shell" alt="Top Languages"/>
-</div>
+</div> -->
 
 ---
 
@@ -245,7 +239,7 @@
   </picture>
 </div>
 
-> 📌 **Setup:** Create `.github/workflows/snake.yml` in this repo with the content from [Platane/snk](https://github.com/Platane/snk) to auto-generate the snake animation via GitHub Actions.
+<!-- > 📌 **Setup:** Create `.github/workflows/snake.yml` in this repo with the content from [Platane/snk](https://github.com/Platane/snk) to auto-generate the snake animation via GitHub Actions. -->
 
 ---
 
@@ -262,13 +256,13 @@
 
 > 📌 **Setup:** Add [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) Action to auto-populate this section with your 5 most recent events.
 
----
+<!-- --- -->
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--               SECTION 13 — PINNED REPO CARDS                 -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-### 📌 Featured Projects
+<!-- ### 📌 Featured Projects
 
 <div align="center">
   <a href="https://github.com/BSSE23029/tuberculosis-classification">
@@ -288,7 +282,7 @@
   <a href="https://github.com/BSSE23029/hotel-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSSE23029&repo=hotel-management-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Hotel Management"/>
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -325,13 +319,13 @@
   </tr>
 </table>
 
----
+<!-- --- -->
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--               SECTION 15 — METRICS (Advanced Stats)          -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-### 🔬 Deep Metrics
+<!-- ### 🔬 Deep Metrics
 
 <div align="center">
 
@@ -342,19 +336,19 @@
   &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BSSE23029&query=$.following&label=➕ Following&color=da3633&style=for-the-badge&logo=github" alt="Following"/>
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--               SECTION 16 — LANGUAGES BAR                     -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
-
+<!-- 
 ### 🌐 Languages by Repository (Alternate View)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSSE23029&layout=donut-vertical&langs_count=12&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages Donut"/>
-</div>
+</div> -->
 
 ---
 
@@ -400,8 +394,8 @@
 
 <div align="center">
   <sub>
-    ⚡ Auto-refreshed via GitHub Actions · Built with obsessive attention to detail · From Lahore 🇵🇰 to the world<br/>
-    <strong>© Muhammad Mukarram Raza — IEEE Researcher · Systems Engineer · ML Practitioner</strong>
+    ⚡ Auto-refreshed via GitHub Actions · Built with obsessive attention to detail<br/>
+    <strong>© Muhammad Mukarram Raza — Systems Engineer · ML Practitioner</strong>
   </sub>
 </div>
 
