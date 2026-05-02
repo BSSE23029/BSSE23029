@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%F0%9F%A7%A0+Systems+Programmer+%7C+AI+Researcher+%7C+Cloud+Engineer;%F0%9F%93%84+IEEE+Published+%E2%80%94+TB+Classification+via+VGG16+Transfer+Learning;%F0%9F%A6%9F+Flutter+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+AWS+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;%F0%9F%94%A9+Multithreaded+crawlers+before+breakfast%2C+CNNs+after+lunch;%F0%9F%9A%80+Low-level+memory+%E2%86%94+High-level+AI+pipelines%3B+I+bridge+both;%F0%9F%8C%99+Writing+production+code+in+Lahore%2C+Pakistan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%F0%9F%A6%9F%20Flutter%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker;%F0%9F%9A%80%20Low-level%20memory%20%E2%86%94%20High-level%20AI%20pipelines%3B%20I%20bridge%20both;%F0%9F%A7%A0%20Systems%20Programmer%20%7C%20AI%20Researcher%20%7C%20Frontend%20Engineer;%F0%9F%93%84%20IEEE%20Published%20%E2%80%94%20TB%20Classification%20via%20VGG16%20Transfer%20Learning" alt="Typing SVG" />
   </a>
 </div>
 
