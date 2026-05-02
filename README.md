@@ -170,8 +170,6 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--END_SECTION:activity-->
 
-> 📌 **Setup:** Add [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) Action to auto-populate this section with your 5 most recent events.
-
 ---
 
 ### 📄 Research Publication
