@@ -1,0 +1,24 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    # This runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to update your README
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update README with activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update recent activity"
+          MAX_LINES: 5
