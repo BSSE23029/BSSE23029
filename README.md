@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Mukarram%20Raza&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Systems%20%2B%20ML%20Hybrid%20%7C%20IEEE%20Researcher%20%7C%20Flutter%20Engineer&descAlignY=65&descSize=18&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Mukarram%20Raza&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Systems%20%2B%20ML%20Hybrid%20%7C%20IEEE%20Researcher%20%7C%20Frontend%20Engineer&descAlignY=65&descSize=18&descColor=8b949e" width="100%"/>
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
@@ -43,15 +43,15 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mukarram-raza-4599762ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="YOUR_WEBSITE_URL">
+  <a href="https://razadev.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">
+  <a href="https://scholar.google.com/citations?user=0gtxh8EAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   &nbsp;
@@ -69,7 +69,13 @@
 <!--                SECTION 4 — ABOUT ME (YAML CODE STYLE)        -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+  <tr>
+    <td valign="middle">
+      <img alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ### 🧬 `whoami`
 
@@ -83,7 +89,6 @@
   identity     : Systems + ML Hybrid (rare species 🦄)
 
   superpower   :
-    - Writes mutex/semaphore locking in C at 2 AM ✅
     - Publishes IEEE papers on TB classification ✅
     - Ships 50K SLOC Flutter codebases at internships ✅
     - Does all of the above simultaneously ✅
