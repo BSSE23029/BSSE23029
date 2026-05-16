@@ -166,8 +166,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section auto-updates if you set up the GitHub Activity Action -->
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+1. 🎉 Merged PR [#1](https://github.com/BSSE23029/razadev/pull/1) in [BSSE23029/razadev](https://github.com/BSSE23029/razadev)
+2. 🎉 Merged PR [#4](https://github.com/BSSE23029/razadev/pull/4) in [BSSE23029/razadev](https://github.com/BSSE23029/razadev)
 <!--END_SECTION:activity-->
 
 ---
