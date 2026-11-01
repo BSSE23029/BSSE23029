@@ -166,7 +166,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BSSE23029/razadev/pull/1) in [BSSE23029/razadev](https://github.com/BSSE23029/razadev)
+1. ❗ Opened issue [#1](https://github.com/BSSE23047/plugweight/issues/1) in [BSSE23047/plugweight](https://github.com/BSSE23047/plugweight)
 2. 🎉 Merged PR [#4](https://github.com/BSSE23029/razadev/pull/4) in [BSSE23029/razadev](https://github.com/BSSE23029/razadev)
 <!--END_SECTION:activity-->
 
